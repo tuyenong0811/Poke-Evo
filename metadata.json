@@ -1,0 +1,6 @@
+{
+  "name": "PokéEvo - Tra cứu Tiến hóa Pokémon Toàn diện",
+  "description": "Tra cứu toàn bộ danh sách Pokémon theo National Pokédex, sơ đồ chuỗi tiến hóa và chi tiết điều kiện tiến hóa (cấp độ, đá tiến hóa, trao đổi, thân mật, vật phẩm đặc biệt).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
